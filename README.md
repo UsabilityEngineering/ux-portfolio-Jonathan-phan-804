@@ -6,3 +6,5 @@
 
 
 ## UX Journal
+# First UX Journal - Wordle
+The first UX Journal can be found [here.](j01/README.md)
