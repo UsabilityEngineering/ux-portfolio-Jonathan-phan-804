@@ -9,7 +9,7 @@ As Wordle is a game, usability aspects such as **effectiveness** and **efficienc
 > *Figure 2: A partially correct guess*
 
 ![wordle correct](https://user-images.githubusercontent.com/72906410/155827091-6fdb077e-a522-44d7-a164-a868049354f8.png)
-> *Figure 3: A correct guess
+> *Figure 3: A correct guess*
 
 Through these images, it is clear how Wordle accomplishes a very learnable system through its use of color. The incorrect guesses are greyed out, both in the display *and* keypad to make clear to the player that it is an incorrect guess. The orange yellow color appears on a guess that is partically correct, that is a guess where the letter appears in the word but not in the position guessed, while a green color is used for a completely correct guess. These are examples of **weak affordances**, or things that can suggest a certain meaning but are not explicit, where typically the color green is associated with being correct and orange is an error.
 
