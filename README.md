@@ -8,3 +8,6 @@
 ## UX Journal
 # First UX Journal - Wordle
 The first UX Journal can be found [here.](j01/README.md)
+
+# Second UX Journal - Minecraft Installation Process
+The second UX Journal can be found [here.](j02/README.md)
