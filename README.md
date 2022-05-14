@@ -11,3 +11,6 @@ The first UX Journal can be found [here.](j01/README.md)
 
 # Second UX Journal - Minecraft Installation Process
 The second UX Journal can be found [here.](j02/README.md)
+
+# Third UX Journal - Spotify Web Application
+The third UX Journal can be found [here.[(j03/README.md)
