@@ -27,3 +27,15 @@ After clicking the link I arrive at the playlist, 50 songs of what appears to be
 ![image](https://user-images.githubusercontent.com/72906410/168417889-12885160-c46f-4d51-9150-1d4874e49824.png)
 
 After adding the pieces I was interested in, it is time to check the search function. From the search bar, there are little cards indicating genre. Towards the bottom is classical, so I can scroll down to it and click it relatively easily. 
+
+![image](https://user-images.githubusercontent.com/72906410/168418452-0b440ffb-c750-4da5-bf53-64da657d2d46.png)
+
+And then the initial landing page of the "Classical" genre:
+
+![image](https://user-images.githubusercontent.com/72906410/168418469-eeae97e4-ac98-4354-a3f3-d4714d9e316c.png)
+
+On this page, a banner with the word "Classical" in white over what appears to be piano keys is front and center, taking up most of the screen space on something that provides almost no value. The banner itself is unclickable, and the words are shown in just white, which be harder to see for some with dimmer monitors, with white lettering over the off-white ivory of the piano key. Cleverly, Spotify offsets some of this by having a subtle shade effect on the keys, especially close to where the wording is. Or it appears that way to me, but it can just be my tired eyes. Elsewhere on the page, some limitations or at least assumptions made by Spotify are exposed. There are three main tabs: Classical Featured Playlists, Composer of the Month, and Classical New Releases. But for music like classical, new releases are not really a thing, and instead a category like popular or trending might be more relevant. 
+
+In terms of the actual listening experience, it is relatively good. The player stays across all pages so you can listen while you browse, and its buttons all follow convention and is easy to pick up. There are a decent quantity of advertisements, and from googling, it appears that most users report two 30 second advertisements every 8-10 minutes. This might not be that big of a deal but many classical music compositions have suites that can approach or pass that time, for example *Mars, the Bringer of War* mentioned earlier was 7 minutes long. It is entirely possible if one sets their playlist to shuffle and does not have a pro account for there to be ads after every song for a period, which can be extremely distracting. Free accounts also come with a limited number of skips per hour, which can affect the **satisfaction** of users who might have been in a certain mood and had songs play that they did not want to hear, but are no longer able to skip.
+
+All in all, Spotify is a relatively good usability experience, with a couple of flaws in the heavy promotion of their premium product, as well as some assumptions around the users. Perhaps having a more defined set of **personas and scenariios** may have shown where some of their designs break down for an admittedly niche portion of their userbase.
