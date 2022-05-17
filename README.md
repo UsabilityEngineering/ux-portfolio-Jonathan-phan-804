@@ -3,7 +3,7 @@
 
 
 ## UX Team Project
-
+https://usabilityengineering.github.io/Looking-For-Game/
 
 ## UX Journal
 # First UX Journal - Wordle
